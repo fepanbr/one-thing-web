@@ -1,0 +1,23 @@
+.top-nav {
+}
+.top-nav .search-container {
+  display: flex;
+  align-items: center;
+  height: 60px;
+}
+
+.top-nav .search-container .label {
+  padding: 20px;
+}
+
+.top-nav .search-container .search {
+}
+
+/* .top-nav .search-container .search:hover {
+  border-bottom: 1px solid #fff;
+} */
+
+.top-nav .search-container .search-icon {
+  margin-right: 20px;
+  font-weight: bold;
+}
